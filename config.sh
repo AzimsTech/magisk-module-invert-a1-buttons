@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print " Disable Xiaomi A1 nav buttons "
+  ui_print " Invert Xiaomi A1 nav buttons "
   ui_print "*******************************"
 }
 

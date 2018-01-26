@@ -27,7 +27,7 @@
 # Disable the buttons entirely.
 # If you want you can edit this module, remove the comment in front of the buttons and invert their order to obtain the classic "Back - Home - Menu" Layout.
 
-#key 139    MENU    VIRTUAL
-#key 172    HOME    VIRTUAL
-#key 158    BACK    VIRTUAL
+key 139    BACK    VIRTUAL
+key 172    HOME    VIRTUAL
+key 158    MENU    VIRTUAL
 key 143    WAKEUP

@@ -1,7 +1,7 @@
-id=a1disablebuttons
-name=Disable Xiaomi A1 nav buttons
+id=a1invertbuttons
+name=Invert Xiaomi A1 nav buttons layout
 version=v1
 versionCode=1
 author=edmael
-description=Module that disable backlight and function of the Xiaomi A1 navigation buttons
+description=Module that disable backlight and invert the functions of Xiaomi A1 navigation buttons so that it reflects Android Stock layout
 minMagisk=1500
