@@ -7,4 +7,3 @@ MODDIR=${0%/*}
 # More info in the main Magisk thread
 # Here we just disable the backlight, the buttons are inverted in the /usr/keylayout/ft5435_ts.kl file.
 echo 0 > /sys/devices/soc/leds-qpnp-10/leds/button-backlight/max_brightness
-echo 0 > /sys/devices/soc/leds-qpnp-10/leds/button-backlight/brightness
